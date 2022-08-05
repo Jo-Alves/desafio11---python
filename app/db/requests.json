@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "client": {
+      "id": 1,
+      "name": "Valdirene Aparecida Ferreira",
+      "email": "valdire@gmail.com"
+    },
+    "items": [
+      {
+        "id": 5,
+        "name": "baby doll",
+        "description": "roupa",
+        "price": 56.99
+      },
+      {
+        "id": 2,
+        "name": "Botina",
+        "description": "cal\u00e7ados",
+        "price": 69
+      },
+      {
+        "id": 3,
+        "name": "Sandalia",
+        "description": "cal\u00e7ado",
+        "price": 50.45
+      }
+    ],
+    "value_total": 176.44
+  },
+  {
+    "id": 2,
+    "client": {
+      "id": 2,
+      "name": "Joelmir Rog\u00e9rio Carvalho",
+      "email": "joemir@gmail.com"
+    },
+    "items": [
+      {
+        "id": 1,
+        "name": "notebook",
+        "description": "eletro",
+        "price": 2400
+      },
+      {
+        "id": 6,
+        "name": "celular",
+        "description": "mobile",
+        "price": 1000
+      }
+    ],
+    "value_total": 3400
+  },
+  {
+    "id": 3,
+    "client": {
+      "id": 1,
+      "name": "Valdiren Aparecida Ferreira",
+      "email": "valdire@gmail.com"
+    },
+    "items": [
+      {
+        "id": 1,
+        "name": "notebook",
+        "description": "eletro",
+        "price": 2400
+      },
+      {
+        "id": 2,
+        "name": "Botina",
+        "description": "cal\u00e7ados",
+        "price": 69
+      }
+    ],
+    "value_total": 2469
+  }
+]
