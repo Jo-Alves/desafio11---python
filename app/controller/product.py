@@ -22,7 +22,6 @@ def save_product():
             product["name"] = input("Digite o nome do produto:\n")
             product["description"] = input("Digite a descrição do produto:\n")
             product["price"] = float(input("Digite a preço do produto:\n"))
-            
             products.append(product)
             if not crud_json.save(path, products)["error"]:
                 print("=============================")

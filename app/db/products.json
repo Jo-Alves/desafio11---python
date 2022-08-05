@@ -1,38 +1,56 @@
 [
   {
     "id": 1,
-    "name": "notebook",
+    "name": "Notebook",
     "description": "eletro",
-    "price": 2400
+    "price": 1145.99
   },
   {
     "id": 2,
-    "name": "Botina",
-    "description": "cal\u00e7ados",
-    "price": 69
+    "name": "baby doll",
+    "description": "roupa",
+    "price": 50.0
   },
   {
     "id": 3,
-    "name": "Sandalia",
-    "description": "cal\u00e7ado",
-    "price": 50.45
+    "name": "boneca",
+    "description": "brinquedo",
+    "price": 49.90
   },
   {
     "id": 4,
-    "name": "2",
-    "description": "tablet",
-    "price": 1000
+    "name": "bota",
+    "description": "calcados",
+    "price": 50.0
   },
   {
     "id": 5,
-    "name": "baby doll",
-    "description": "roupa",
-    "price": 56.99
+    "name": "sandalia",
+    "description": "calcados",
+    "price": 45.99
   },
   {
     "id": 6,
     "name": "celular",
-    "description": "mobile",
-    "price": 1000
+    "description": "telefone movel",
+    "price": 1149.99
+  },
+  {
+    "id": 7,
+    "name": "urso de pelúcia",
+    "description": "brinquedo",
+    "price": 99.99
+  },
+  {
+    "id": 8,
+    "name": "carro de controle remoto",
+    "description": "brinquedo",
+    "price": 99.99
+  },
+  {
+    "id": 9,
+    "name": "bola de futebol",
+    "description": "brinquedo",
+    "price": 99.99
   }
 ]

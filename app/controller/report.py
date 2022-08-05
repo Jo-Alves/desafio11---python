@@ -16,10 +16,10 @@ def generate_report():
     if requests["error"]:
         print(requests["error"])
         return
-    print("======================== [Relatório de pedidos]============================")
+    print("======================== [Relatório de pedidos] ============================")
     for request in requests["data"]:
         print(f"Pedido nº: {request['id']}")
         print(f"Cliente: {request['client']['name']}")
         print("Valor total: {:.2f}".format(request['value_total']))
         print("================================================")
-        sleep(0.2)
+        sleep(0.8)

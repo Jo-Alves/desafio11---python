@@ -3,30 +3,24 @@
     "id": 1,
     "client": {
       "id": 1,
-      "name": "Valdirene Aparecida Ferreira",
+      "name": "Valdiren Aparecida Ferreira",
       "email": "valdire@gmail.com"
     },
     "items": [
       {
-        "id": 5,
+        "id": 2,
         "name": "baby doll",
         "description": "roupa",
-        "price": 56.99
+        "price": 50.0
       },
       {
-        "id": 2,
-        "name": "Botina",
-        "description": "cal\u00e7ados",
-        "price": 69
-      },
-      {
-        "id": 3,
-        "name": "Sandalia",
-        "description": "cal\u00e7ado",
-        "price": 50.45
+        "id": 4,
+        "name": "bota",
+        "description": "calcados",
+        "price": 50.0
       }
     ],
-    "value_total": 176.44
+    "value_total": 100.0
   },
   {
     "id": 2,
@@ -37,41 +31,64 @@
     },
     "items": [
       {
-        "id": 1,
-        "name": "notebook",
-        "description": "eletro",
-        "price": 2400
-      },
-      {
         "id": 6,
         "name": "celular",
-        "description": "mobile",
-        "price": 1000
+        "description": "telefone movel",
+        "price": 1149.99
+      },
+      {
+        "id": 1,
+        "name": "Notebook",
+        "description": "eletro",
+        "price": 1145.99
       }
     ],
-    "value_total": 3400
+    "value_total": 2295.98
   },
   {
     "id": 3,
     "client": {
-      "id": 1,
-      "name": "Valdiren Aparecida Ferreira",
-      "email": "valdire@gmail.com"
+      "id": 3,
+      "name": "Noelly Ferreira",
+      "email": "noelly@gmail.com"
     },
     "items": [
       {
-        "id": 1,
-        "name": "notebook",
-        "description": "eletro",
-        "price": 2400
+        "id": 3,
+        "name": "boneca",
+        "description": "brinquedo",
+        "price": 49.9
       },
       {
-        "id": 2,
-        "name": "Botina",
-        "description": "cal\u00e7ados",
-        "price": 69
+        "id": 7,
+        "name": "urso de pelucia",
+        "description": "brinquedo",
+        "price": 99.99
       }
     ],
-    "value_total": 2469
+    "value_total": 149.89
+  },
+  {
+    "id": 4,
+    "client": {
+      "id": 4,
+      "name": "Antony Bennedito",
+      "email": "to@gmail.com"
+    },
+    "items": [
+      {
+        "id": 8,
+        "name": "carro de controle remoto",
+        "description": "brinquedo",
+        "price": 99.99
+      },
+      {
+        "id": 9,
+        "name": "bola de futebol",
+        "description": "brinquedo",
+        "price": 99.99
+      }
+    ],
+    "value_total": 199.98
   }
 ]
